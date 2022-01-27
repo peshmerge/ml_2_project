@@ -1,0 +1,1 @@
+This folder contains the result of the training within 1000 samples, 600 epoch and 10 batchsize
